@@ -1,4 +1,6 @@
+-- 
 -- file for queries
+
 CREATE DATABASE ;
 
 -- 1.TABLA PAISES
